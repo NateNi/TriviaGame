@@ -95,3 +95,13 @@ button:hover {
 input[type="radio"] {
     margin-right: 6px;
   }
+
+#startButton {
+    font-family: 'Audiowide', cursive;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.start {
+    text-align: center;
+}
